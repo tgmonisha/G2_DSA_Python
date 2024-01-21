@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [10 mini projects done in Pyhton]| [Click Here](https://github.com/harsha8688/G2_DSA_Python/tree/main/Mini%20Projects/Harsha%20Vardhan)                         |
-| Final Project: [Student DataBase]| [Click Here](https://github.com/harsha8688/G2_DSA_Python/tree/main/Final%20Capstone%20Project/Harsha%20Vardhan)                        |
+| Mini Projects: [10 mini projects done in Pyhton]| [Click Here](https://github.com/sure-trust/G2_DSA_Python/tree/main/Mini%20Projects/Harsha%20Vardhan)                         |
+| Final Project: [Student DataBase]| [Click Here](https://github.com/sure-trust/G2_DSA_Python/tree/main/Final%20Capstone%20Project/Harsha%20Vardhan)                        |
